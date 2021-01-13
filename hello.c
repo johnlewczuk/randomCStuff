@@ -2,5 +2,5 @@
 
 int main(){
     printf("Hellow, World\n");
-    return ;
+    return 0;
 }
